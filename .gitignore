@@ -8,3 +8,6 @@
 .RData
 .Ruserdata
 >>>>>>> 5a8e4eb (Initial commit of CRSC-PH site)
+
+/.quarto/
+**/*.quarto_ipynb
