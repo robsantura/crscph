@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 .Rproj.user/
 .Rhistory
 .quarto/
+=======
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+>>>>>>> 5a8e4eb (Initial commit of CRSC-PH site)
