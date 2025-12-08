@@ -1,1 +1,31 @@
-/* css styles */
+/* styles.scss: Custom Quarto theme for CRSC-PH site */
+
+/* Set global background and text colors */
+body {
+  background-color: #e6f2f0; /* light teal/green */
+  color: #002b36; /* dark slate text */
+}
+
+/* Navbar customization */
+.navbar {
+  background-color: #0072B1; /* MDH blue */
+  color: white;
+}
+
+.navbar a, .navbar-brand {
+  color: white !important;
+}
+
+/* Footer or other accents */
+footer {
+  background-color: #004b6d; /* darker blue for footer */
+  color: white;
+}
+
+/* Optional: Link styles */
+a {
+  color: #007a3d; /* green links */
+}
+a:hover {
+  color: #005d2d;
+}
