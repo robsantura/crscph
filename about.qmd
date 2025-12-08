@@ -2,8 +2,6 @@
 title: "About CRSC-PH"
 ---
 
-# About CRSC-PH
-
 The **Center for Advanced Research on Social Norms and Systems Change in Public Health (CRSC-PH)** exists to help public health systems become more **effective**, **equitable**, and **responsive to lived realities**.
 
 We focus on the intersection of:
