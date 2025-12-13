@@ -1,15 +1,41 @@
 ---
 title: "Contact"
-page-layout: full
+format:
+  html:
+    toc: false
 ---
 
-## Get in Touch
+# Contact Us
 
-We welcome collaborations, inquiries, and conversations.
+Thank you for your interest in the **Center for Systems Change and Social Norms Research in Public Health**. We welcome inquiries, collaboration opportunities, requests for partnership, and questions about our research, services, and initiatives.
 
-📧 Email: [ronsan.tura@crscph.org](mailto:ronsan.tura@crscph.org)  
-🌐 Website: [www.crscph.org](https://www.crscph.org)
-
-Let’s work together to build more just, effective, and people-centered public health systems.
+We value meaningful, equity-centered relationships and look forward to connecting with you.
 
 ---
+
+## General Inquiries
+
+For all inquiries, including research questions, partnerships, services, or collaborations, please contact:
+
+**Email:**  
+[robsan.tura@crscph.org](mailto:robsan.tura@crscph.org)
+
+---
+
+## Mailing Address
+
+**Center for Systems Change and Social Norms Research in Public Health**  
+625 Robert St N  
+St. Paul, MN 55164  
+USA
+
+(*Update this address if your center uses a different one.*)
+
+---
+
+## Stay Connected
+
+Explore our website to learn more about our mission, publications, and services. More updates—including events, trainings, and new research—will be available soon.
+---
+
+## 

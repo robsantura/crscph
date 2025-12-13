@@ -1,0 +1,64 @@
+---
+title: "Staff"
+format:
+  html:
+    toc: false
+---
+
+# Staff
+
+The **Center for Systems Change and Social Norms Research in Public Health** is supported by a committed team advancing systems transformation, equity, and community-centered public health practice. Our staff bring diverse expertise in research, policy, evaluation, and social norms work.
+
+------------------------------------------------------------------------
+
+## Leadership
+
+:::: staff-grid
+::: staff-card
+<h3>Dr. Robsan Tura, PhD, MPH</h3>
+
+<p><strong>Executive Director</strong></p>
+
+<p>Dr. Tura is a public health executive, researcher, and equity champion whose work centers on transforming public health systems through research, policy, and community partnership.</p>
+
+<p><strong>Email:</strong> <a href="mailto:robsan.tura@crscph.org">robsan.tura\@crscph.org</a></p>
+:::
+::::
+
+------------------------------------------------------------------------
+
+## Staff
+
+:::::: staff-grid
+::: staff-card
+<h3>Name, Degree(s)</h3>
+
+<p><strong>Position Title</strong></p>
+
+<p>Short bio of 2–3 sentences describing their role, expertise, and contributions to the center.</p>
+:::
+
+::: staff-card
+<h3>Name, Degree(s)</h3>
+
+<p><strong>Position Title</strong></p>
+
+<p>Short bio here.</p>
+:::
+
+::: staff-card
+<h3>Name, Degree(s)</h3>
+
+<p><strong>Position Title</strong></p>
+
+<p>Short bio here.</p>
+:::
+::::::
+
+------------------------------------------------------------------------
+
+## Join Our Team
+
+If you are interested in future opportunities with the center, please reach out:
+
+📧 <a href="mailto:robsan.tura@crscph.org">robsan.tura\@crscph.org</a>

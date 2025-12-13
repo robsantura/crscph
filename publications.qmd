@@ -1,3 +1,61 @@
 ---
 title: "Publications"
+format:
+  html:
+    toc: false
+---
+
+# Publications
+
+The **Center for Systems Change and Social Norms Research in Public Health** produces research, reports, and evidence designed to strengthen public health systems and advance equity. Our work spans social norms research, systems analysis, evaluation, and community-engaged public health inquiry.
+
+Below is a selection of publications, reports, briefs, and presentations from our team and collaborators. This page will grow as more work becomes available.
+
+---
+
+## Peer-Reviewed Articles
+
+*Add your published articles here.*  
+For each article, use this format:
+
+**Author(s)** (Year). *Title of Article.* Journal Name, Volume(Issue), pages.  
+[Link to article](#)
+
+Example:
+
+**Tura, R.**, & colleagues (2024). *Systems Change Approaches to Advancing Health Equity in Public Health Practice.* Journal of Public Health Systems, 18(2), 45–59.  
+[Read article →](#)
+
+---
+
+## Research Reports & Technical Briefs
+
+Use this section to share center-led reports, evaluations, and findings.
+
+Example:
+
+**Center for Systems Change and Social Norms Research in Public Health** (2025). *Understanding Social Norms and Systems Drivers of Maternal Health Inequities in Minnesota.*  
+[Download report →](#)
+
+---
+
+## Policy Briefs & Evidence Summaries
+
+Short, accessible summaries designed for policymakers, agency leaders, and practitioners.
+
+Example:
+
+**Policy Brief:** *Strengthening Public Health Capacity Through Systems Transformation.*  
+[View brief →](#)
+
+---
+
+## Presentations & Conference Proceedings
+
+List presentations given at conferences, webinars, and invited talks.
+
+Example:
+
+**Tura, R.** (2025). *Social Norms and Systems Change in Public Health Practice.* Presentation at the American Public Health Association (APHA) Annual Me
+
 ---
