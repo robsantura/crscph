@@ -5,7 +5,7 @@ project:
 website:
   title: "Center for Systems Change and Social Norms Research in Public Health"
   navbar:
-    logo: images/center-logo.png
+    logo: images/crscph_logo.png
     right:
       - text: Home
         href: index.qmd
