@@ -17,6 +17,8 @@ website:
         href: contact.qmd
       - text: Publications
         href: publications.qmd
+      - text: Staff
+        href: staff.qmd
 
 format:
   html:
