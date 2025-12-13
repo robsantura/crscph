@@ -30,3 +30,10 @@ a {
 a:hover {
   color: #005d2d;
 }
+.navbar-brand img {
+  height: 90px !important;    /* Increase logo size */
+  width: auto !important;     /* Keep proportions */
+  background-color: #0072B1;  /* Match navbar MDH-blue */
+  padding: 6px;               /* Breathing room around logo */
+  border-radius: 6px;         /* Rounded corners for a clean look */
+}
