@@ -30,10 +30,20 @@ a {
 a:hover {
   color: #005d2d;
 }
+/* Hide default navbar brand spacing */
+.navbar .navbar-brand {
+  margin-right: 0 !important;
+}
+
+/* Make the logo span full navbar width */
 .navbar-brand img {
-  height: 90px !important;    /* Increase logo size */
-  width: auto !important;     /* Keep proportions */
-  background-color: #0072B1;  /* Match navbar MDH-blue */
-  padding: 6px;               /* Breathing room around logo */
-  border-radius: 6px;         /* Rounded corners for a clean look */
+  width: 100% !important;
+  height: auto !important;
+  max-height: 160px; /* Adjust as needed */
+  object-fit: contain;
+}
+
+/* Increase navbar height */
+.navbar {
+  height: 180px;
 }
