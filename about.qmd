@@ -5,80 +5,83 @@ format:
     toc: false
 ---
 
-# About the Center
+# 
 
 The **Center for Systems Change and Social Norms Research in Public Health** is a research and practice hub dedicated to understanding how **systems, structures, and social norms** shape health outcomes—and how transforming them can advance equity and wellbeing for all communities.
 
 We bring together interdisciplinary research, community partnership, and public health practice to illuminate the forces that influence behavior, culture, and policy across populations.
 
----
+------------------------------------------------------------------------
 
 ## Our Mission
 
 To strengthen public health systems by generating evidence, tools, and partnerships that shift harmful norms, transform inequitable structures, and support healthier, more inclusive communities.
 
----
+------------------------------------------------------------------------
 
 ## Our Vision
 
-A world where public health systems are just, responsive, and inclusive—and where social norms uplift rather than marginalize communities.  
+A world where public health systems are just, responsive, and inclusive—and where social norms uplift rather than marginalize communities.\
 A world where **health equity is the standard**, not the exception.
 
----
+------------------------------------------------------------------------
 
 ## Our Approach
 
 We believe meaningful and sustainable public health change requires a combined focus on:
 
 ### **1. Systems Change**
+
 Understanding and transforming the policies, structures, and institutional practices that shape health outcomes and inequities.
 
 ### **2. Social Norms Research**
+
 Examining how cultural expectations, beliefs, and unwritten rules influence behavior, service access, and health equity—especially among marginalized communities.
 
 ### **3. Equity and Inclusion**
+
 Centering lived experience, co-design, and community voice in all stages of research and implementation.
 
 ### **4. Translating Evidence Into Action**
+
 Working with communities, agencies, and cross-sector partners to turn research findings into practical solutions, policy improvements, and systems transformation.
 
----
+------------------------------------------------------------------------
 
 ## Our Values
 
-- **Equity:** We work to confront structural racism, discrimination, and systems of oppression that drive inequities.  
-- **Community Partnership:** We prioritize lived experience and collaboration with community members and leaders.  
-- **Integrity:** We commit to rigorous, transparent, and responsible research and practice.  
-- **Innovation:** We explore creative, interdisciplinary methods to understand and shift complex systems.  
-- **Humility:** We recognize that communities are the experts in their experience, and we engage with care, respect, and accountability.
+-   **Equity:** We work to confront structural racism, discrimination, and systems of oppression that drive inequities.\
+-   **Community Partnership:** We prioritize lived experience and collaboration with community members and leaders.\
+-   **Integrity:** We commit to rigorous, transparent, and responsible research and practice.\
+-   **Innovation:** We explore creative, interdisciplinary methods to understand and shift complex systems.\
+-   **Humility:** We recognize that communities are the experts in their experience, and we engage with care, respect, and accountability.
 
----
+------------------------------------------------------------------------
 
 ## What Makes Us Unique
 
-- We bridge **research and practice**, ensuring evidence informs real-world change.  
-- We integrate **complex systems thinking** with social norms theory.  
-- We prioritize **culturally responsive and community-grounded approaches**.  
-- We focus on **structural drivers of inequity**, not just individual behaviors.  
-- We support agencies and organizations seeking to transform how public health is practiced.
+-   We bridge **research and practice**, ensuring evidence informs real-world change.\
+-   We integrate **complex systems thinking** with social norms theory.\
+-   We prioritize **culturally responsive and community-grounded approaches**.\
+-   We focus on **structural drivers of inequity**, not just individual behaviors.\
+-   We support agencies and organizations seeking to transform how public health is practiced.
 
----
+------------------------------------------------------------------------
 
 ## Our Work in Action
 
 Our center collaborates with:
 
-- State and local public health agencies  
-- Community organizations and advocacy groups  
-- Academic partners  
-- National research networks  
-- Foundations and policy leaders  
+-   State and local public health agencies\
+-   Community organizations and advocacy groups\
+-   Academic partners\
+-   National research networks\
+-   Foundations and policy leaders
 
 These partnerships support systems transformation, policy development, health equity research, and community-led change initiatives.
 
----
+------------------------------------------------------------------------
 
 ## Connect With Us
 
 We welcome partnerships, inquiries, and collaboration opportunities. Visit our **Contact** page to learn more about how to engage with our center.
-
