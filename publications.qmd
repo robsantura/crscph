@@ -2,8 +2,8 @@
 title: "Publications"
 toc: false
 bibliography: publications.bib
-csl: apa.csl
 ---
+
 
 
 The Center for Systems Change and Social Norms Research in Public Health produces research, reports, and evidence designed to strengthen public health systems and advance equity. Our work spans social norms research, systems analysis, evaluation, and community-engaged public health inquiry.
@@ -16,9 +16,9 @@ This page highlights scholarly outputs from the Center and will continue to expa
 
 Peer-reviewed journal articles authored or co-authored by Center members advance theory, evidence, and practice related to systems change, social norms, and public health equity.
 
-::: {#refs}
-:::
 
+::: {.references}
+:::
 
 ---
 
