@@ -1,57 +1,49 @@
----
-title: "CRSC-PH"
-format:
-  html:
-    toc: false
----
-
 # Welcome
 
 The **Center for Systems Change and Social Norms Research in Public Health** is dedicated to advancing research and practice that transform the systems, structures, and cultural norms shaping health outcomes. We work at the intersection of **public health, social norms, systems science, and health equity**, bringing together research, community insight, and policy analysis to support meaningful and sustainable change.
 
 Our logo reflects this mission—demonstrating the interdependence between systems, community, and culture, and the shared responsibility required to improve public health for all.
 
----
+------------------------------------------------------------------------
 
 ## What We Do
 
 At the Center, we focus on research and partnerships that:
 
-- Examine how **social norms** influence behaviors, health outcomes, and equity.
-- Identify and address **structural and systems-level drivers** of disparities.
-- Develop tools, frameworks, and evidence that support **systems transformation**.
-- Collaborate with communities, government agencies, and cross-sector partners.
-- Translate research into **practice and policy** to improve population health.
+-   Examine how **social norms** influence behaviors, health outcomes, and equity.
+-   Identify and address **structural and systems-level drivers** of disparities.
+-   Develop tools, frameworks, and evidence that support **systems transformation**.
+-   Collaborate with communities, government agencies, and cross-sector partners.
+-   Translate research into **practice and policy** to improve population health.
 
----
+------------------------------------------------------------------------
 
 ## Our Commitment to Equity
 
 We ground our work in the belief that public health must be:
 
-- **Inclusive**
-- **Community-informed**
-- **Culturally responsive**
-- **Accountable to those most impacted by systemic inequities**
+-   **Inclusive**
+-   **Community-informed**
+-   **Culturally responsive**
+-   **Accountable to those most impacted by systemic inequities**
 
 Our research and partnerships reflect these values, prioritizing lived experience alongside empirical evidence.
 
----
+------------------------------------------------------------------------
 
 ## Learn More
 
 Use the navigation menu above to explore:
 
-- **About** – Learn about our mission, values, and approach  
-- **Services** – Explore our consulting, research, and partnership offerings  
-- **Publications** – Access reports, manuscripts, and evidence from our work  
-- **Contact** – Reach out to collaborate or connect with our team  
+-   **About** – Learn about our mission, values, and approach\
+-   **Services** – Explore our consulting, research, and partnership offerings\
+-   **Publications** – Access reports, manuscripts, and evidence from our work\
+-   **Contact** – Reach out to collaborate or connect with our team
 
----
+------------------------------------------------------------------------
 
 ## Join Us in Transforming Public Health
 
-We welcome collaborators, researchers, community partners, and practitioners who share our commitment to transforming systems and shifting social norms to advance health equity.
----
+## We welcome collaborators, researchers, community partners, and practitioners who share our commitment to transforming systems and shifting social norms to advance health equity.
 
 # 
