@@ -2,7 +2,9 @@
 title: "Publications"
 toc: false
 bibliography: publications.bib
+nocite: "@*"
 ---
+
 
 
 
@@ -20,7 +22,7 @@ Peer-reviewed journal articles authored or co-authored by Center members advance
 ::: {.references}
 :::
 
----
+
 
 ## Research Reports & Technical Briefs
 
