@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Center for Systems Change and Social Norms Research in Public Health"
+  
   navbar:
     logo: images/crscph_logo.png
     right:
