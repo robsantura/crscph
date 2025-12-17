@@ -1,61 +1,49 @@
 ---
 title: "Publications"
-format:
-  html:
-    toc: false
+toc: false
+bibliography: publications.bib
+csl: apa.csl
 ---
 
-# Publications
 
-The **Center for Systems Change and Social Norms Research in Public Health** produces research, reports, and evidence designed to strengthen public health systems and advance equity. Our work spans social norms research, systems analysis, evaluation, and community-engaged public health inquiry.
+The Center for Systems Change and Social Norms Research in Public Health produces research, reports, and evidence designed to strengthen public health systems and advance equity. Our work spans social norms research, systems analysis, evaluation, and community-engaged public health inquiry.
 
-Below is a selection of publications, reports, briefs, and presentations from our team and collaborators. This page will grow as more work becomes available.
+This page highlights scholarly outputs from the Center and will continue to expand as new work is published and disseminated.
 
 ---
 
 ## Peer-Reviewed Articles
 
-*Add your published articles here.*  
-For each article, use this format:
+Peer-reviewed journal articles authored or co-authored by Center members advance theory, evidence, and practice related to systems change, social norms, and public health equity.
 
-**Author(s)** (Year). *Title of Article.* Journal Name, Volume(Issue), pages.  
-[Link to article](#)
+::: {#refs}
+:::
 
-Example:
-
-**Tura, R.**, & colleagues (2024). *Systems Change Approaches to Advancing Health Equity in Public Health Practice.* Journal of Public Health Systems, 18(2), 45–59.  
-[Read article →](#)
 
 ---
 
 ## Research Reports & Technical Briefs
 
-Use this section to share center-led reports, evaluations, and findings.
+Center-led research reports and technical briefs provide in-depth analysis and applied findings to inform public health systems, programs, and policy.
 
-Example:
-
-**Center for Systems Change and Social Norms Research in Public Health** (2025). *Understanding Social Norms and Systems Drivers of Maternal Health Inequities in Minnesota.*  
-[Download report →](#)
+*Reports and briefs will be added as they are released.*
 
 ---
 
 ## Policy Briefs & Evidence Summaries
 
-Short, accessible summaries designed for policymakers, agency leaders, and practitioners.
+Policy briefs and evidence summaries translate research findings into accessible insights for policymakers, agency leaders, and practitioners.
 
-Example:
-
-**Policy Brief:** *Strengthening Public Health Capacity Through Systems Transformation.*  
-[View brief →](#)
+*Policy-focused publications will be posted here.*
 
 ---
 
 ## Presentations & Conference Proceedings
 
-List presentations given at conferences, webinars, and invited talks.
+Scholarly and invited presentations delivered at conferences, webinars, and professional convenings share emerging insights and applied lessons from the Center’s work.
 
-Example:
-
-**Tura, R.** (2025). *Social Norms and Systems Change in Public Health Practice.* Presentation at the American Public Health Association (APHA) Annual Me
+*Presentations and proceedings will be listed as available.*
 
 ---
+
+# 
