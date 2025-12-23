@@ -5,7 +5,8 @@ project:
 website:
   
   navbar:
-    logo: images/crscph_logo.png
+    logo: images/crscph_logo1-transparent.png
+    title: false
     right:
       - text: Home
         href: index.qmd
