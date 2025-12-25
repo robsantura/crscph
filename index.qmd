@@ -1,49 +1,62 @@
-# Welcome
+---
+title: "Home"
+---
 
-The **Center for Systems Change and Social Norms Research in Public Health** is dedicated to advancing research and practice that transform the systems, structures, and cultural norms shaping health outcomes. We work at the intersection of **public health, social norms, systems science, and health equity**, bringing together research, community insight, and policy analysis to support meaningful and sustainable change.
+## Center for Research on Systems Change in Public Health (CRSCPH)
 
-Our logo reflects this mission—demonstrating the interdependence between systems, community, and culture, and the shared responsibility required to improve public health for all.
+**Evidence. Equity. Action.**
 
-------------------------------------------------------------------------
+CRSCPH is a public health and social change consulting firm advancing equity by transforming the systems, social norms, and leadership practices that shape population health. We bridge research, practice, and policy to support sustainable, community-centered change.
+
+## Who We Are
+
+CRSCPH works alongside communities, public health agencies, and organizations to address the structural and cultural drivers of health inequities. Our work centers systems change, social norms research, and equity-informed leadership to move beyond individual-level solutions toward lasting transformation.
 
 ## What We Do
 
-At the Center, we focus on research and partnerships that:
+### Research, Evaluation & Learning
 
--   Examine how **social norms** influence behaviors, health outcomes, and equity.
--   Identify and address **structural and systems-level drivers** of disparities.
--   Develop tools, frameworks, and evidence that support **systems transformation**.
--   Collaborate with communities, government agencies, and cross-sector partners.
--   Translate research into **practice and policy** to improve population health.
+-   Equity-focused program and policy evaluation\
+-   Mixed-methods research design\
+-   Community-engaged data collection\
+-   Learning agendas and continuous improvement frameworks
 
-------------------------------------------------------------------------
+### Intervention & Strategy Design
 
-## Our Commitment to Equity
+-   Theory of Change and logic model development\
+-   Social norms and behavior change strategies\
+-   Community-informed intervention design\
+-   Policy and systems-level strategy development
 
-We ground our work in the belief that public health must be:
+### Leadership & Capacity Development
 
--   **Inclusive**
--   **Community-informed**
--   **Culturally responsive**
--   **Accountable to those most impacted by systemic inequities**
+-   Equity-centered leadership development\
+-   Systems and adaptive leadership coaching\
+-   Organizational culture and change support\
+-   Facilitation of cross-sector collaboratives
 
-Our research and partnerships reflect these values, prioritizing lived experience alongside empirical evidence.
+## Systems Thinking & Systems Change
 
-------------------------------------------------------------------------
+CRSCPH applies systems thinking to help partners understand and address the complex, interconnected forces that shape population health. We support organizations in moving beyond siloed interventions toward equitable, adaptive, and sustainable systems change.
 
-## Learn More
+Our work in systems thinking and systems change includes:
 
-Use the navigation menu above to explore:
+-   Supporting understanding of social and structural determinants of health, including how policies, institutions, and power dynamics influence health outcomes\
+-   Examining political determinants of health, such as governance, policy processes, and decision-making structures that shape access, accountability, and resource allocation\
+-   Training on equitable systems change, equipping practitioners and leaders to apply systems thinking through an equity and justice lens\
+-   Training on the equitable use of artificial intelligence (AI) in public health, with attention to bias, ethics, governance, and responsible application in public systems\
+-   Systems change models and system characteristics, including leverage points, feedback loops, adaptation, and learning within complex public health systems
 
--   **About** – Learn about our mission, values, and approach\
--   **Services** – Explore our consulting, research, and partnership offerings\
--   **Publications** – Access reports, manuscripts, and evidence from our work\
--   **Contact** – Reach out to collaborate or connect with our team
+This work supports leaders, agencies, and communities to design strategies that address root causes, respond to complexity, and promote long-term transformation.
 
-------------------------------------------------------------------------
+## Our Work
 
-## Join Us in Transforming Public Health
+CRSCPH’s work spans peer-reviewed research, applied evaluation, strategy design, and leadership development across areas such as maternal and child health, gender equity, community health systems, and public sector transformation.
 
-## We welcome collaborators, researchers, community partners, and practitioners who share our commitment to transforming systems and shifting social norms to advance health equity.
+Visit the **Publications** page to explore our scholarly contributions and applied research.
 
-# 
+## Partner With Us
+
+CRSCPH partners with public health agencies, community-based organizations, academic institutions, funders, and policy leaders seeking to strengthen systems, shift norms, and advance equity.
+
+Learn more about our approach on the **About** page or connect with us through the **Contact** page.

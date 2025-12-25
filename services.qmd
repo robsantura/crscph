@@ -5,92 +5,146 @@ format:
     toc: false
 ---
 
-# Our Services
+## Our Services
 
-The **Center for Systems Change and Social Norms Research in Public Health** provides research, consultation, and strategic support to partners working to strengthen public health systems and advance health equity. Our services are grounded in evidence, systems science, community partnership, and culturally responsive practice.
+The **Center for Research on Systems Change in Public Health (CRSCPH)** provides research, consultation, and strategic support to partners working to strengthen public health systems and advance health equity. Our services are grounded in rigorous evidence, systems science, community partnership, and culturally responsive practice.
 
-We collaborate with government agencies, community organizations, academic institutions, and cross-sector partners to generate insights, build capacity, and support meaningful, sustainable transformation.
+We collaborate with government agencies, community-based organizations, academic institutions, foundations, and cross-sector partners to generate insight, build capacity, and support meaningful, sustainable transformation.
 
----
+## Research, Evaluation & Learning
 
-## Research & Evaluation
+We conduct rigorous, equity-centered research and evaluation to understand how systems, structures, and social norms influence behavior, service access, health outcomes, and community resilience. Our work supports learning, accountability, and action across public health systems.
 
-We conduct rigorous, equity-centered research to understand how systems and social norms influence behavior, service access, health outcomes, and community resilience. Our research supports:
+Our research and evaluation services include:
 
-- Public health program evaluation  
-- Social norms and behavior insights  
-- Systems mapping and systems analysis  
-- Community-engaged and participatory methods  
-- Policy analysis and evidence translation  
-- Equity impact assessments  
+-    Equity-focused program and policy evaluation
 
----
+-   Mixed-methods research design
+
+-   Community-engaged and participatory research
+
+-   Social norms and behavioral insights
+
+-   Systems mapping and systems analysis
+
+-   Equity impact assessments
+
+-   Learning agendas and continuous improvement frameworks
+
+-   Policy analysis and evidence translation
+
+## Intervention & Strategy Design
+
+We support partners in designing theory-driven, community-informed interventions and systems-level strategies that address root causes of inequity and promote sustainable change.
+
+Our intervention and strategy design services include:
+
+-    Theory of Change and logic model development
+
+-    Social norms and behavior change strategies
+
+-    Community-informed and co-designed interventions
+
+-    Policy- and systems-level strategy development
+
+-    Public health systems strengthening and modernization
+
+## Leadership & Capacity Development
+
+We work with leaders, teams, and organizations to build the skills and capacities needed to navigate complexity, lead equity-centered change, and transform organizational culture.
+
+Our leadership and capacity development services include:
+
+-    Equity-centered leadership development
+
+-   Systems and adaptive leadership coaching
+
+-    Organizational culture and change support
+
+-    Facilitation of cross-sector collaboratives
+
+-   Capacity-building cohorts and learning institutes
 
 ## Strategic Consultation & Technical Assistance
 
-We support agencies and organizations seeking to shift systems, strengthen equity, and improve public health outcomes. Our consultation services include:
+We provide strategic consultation and technical assistance to agencies and organizations seeking to shift systems, strengthen equity, and improve public health outcomes.
 
-- Systems transformation strategy  
-- Organizational and structural analysis  
-- Equity and inclusion frameworks  
-- Social norms change strategy development  
-- Public health systems modernization  
-- Cross-sector collaboration and alignment  
+**Our consultation services include:**
 
----
+-    Systems transformation strategy
 
-## Training & Capacity Building
+-    Organizational and structural analysis
 
-We provide training that equips teams and leaders with the tools needed to transform public health systems. Our training offerings include:
+-    Equity and inclusion frameworks
 
-- Systems thinking for public health  
-- Social norms theory and application  
-- Health equity and structural determinants of health  
-- Community engagement and co-design  
-- Data storytelling and evidence communication  
-- Implementation and change management  
+-    Social norms change strategy development
 
----
+-    Cross-sector collaboration and alignment
+
+## Training & Learning
+
+We offer training and learning experiences that equip teams and leaders with practical tools to apply systems thinking, social norms research, and equity principles in real-world public health contexts.
+
+**Training topics include:**
+
+-   Systems thinking for public health
+
+-   Social norms theory and application
+
+-    Health equity and structural determinants of health
+
+-    Community engagement and co-design
+
+-    Data storytelling and evidence communication
+
+-    Implementation and change management
 
 ## Community Partnership & Engagement
 
-We collaborate with communities to ensure research and strategies reflect lived experience, cultural context, and community priorities. Our services include:
+Community partnership is foundational to our work. We collaborate with communities to ensure research, strategies, and policies reflect lived experience, cultural context, and community priorities.
 
-- Co-design and participatory approaches  
-- Community advisory structures  
-- Qualitative and mixed-methods research  
-- Culturally grounded engagement strategies  
-- Narrative and norms-change initiatives  
+**Our community engagement services include:**
 
----
+-   Co-design and participatory approaches
+
+-    Community advisory structures
+
+-    Qualitative and mixed-methods research
+
+-    Culturally grounded engagement strategies
+
+-    Narrative and norms-change initiatives
 
 ## Policy Support & Evidence Translation
 
-We help partners interpret research, apply evidence, and develop policies that promote equitable outcomes. Our work includes:
+We help partners interpret research, apply evidence, and develop policies that promote equitable and effective outcomes.
 
-- Policy analysis and systems impacts  
-- Briefs, reports, and evidence syntheses  
-- Legislative and regulatory insight  
-- Strategic communication and messaging  
-- Health equity policy development  
+**Our policy support services include:**
 
----
+-    Policy analysis and systems impact assessment
+
+-    Evidence syntheses, briefs, and reports
+
+-    Legislative and regulatory insight
+
+-    Strategic communication and messaging
+
+-    Health equity–focused policy development
 
 ## Tailored Partnerships
 
-Every system, community, and organization is unique. We offer tailored partnerships to meet specific needs and goals. Connect with us to explore:
+Every system, community, and organization is unique. CRSCPH offers flexible, tailored partnerships aligned with specific needs, goals, and contexts.
 
-- Customized research projects  
-- Long-term strategic partnerships  
-- Collaborative grant proposals  
-- Capacity-building cohorts or institutes  
-- Pilot projects and innovation initiatives  
+Partnership opportunities include:
 
----
+-    Customized research and evaluation projects
 
-## Interested in Working With Us?
+-   Long-term strategic partnerships
 
-Visit our **Contact** page to start a conversation about how we can support your goals in systems change, social norms research, and public health transformation.
----
+-   Collaborative grant development
+
+-    Capacity-building cohorts or institutes
+
+-    Pilot projects and innovation initiatives
 
 ## 

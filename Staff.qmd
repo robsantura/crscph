@@ -3,11 +3,12 @@ title: "Staff"
 format:
   html:
     toc: false
+---I ment 
 ---
 
 # Staff
 
-The **Center for Systems Change and Social Norms Research in Public Health** is supported by a committed team advancing systems transformation, equity, and community-centered public health practice. Our staff bring diverse expertise in research, policy, evaluation, and social norms work.
+**Center for Research on Systems Change in Public Health** is supported by a committed team advancing systems transformation, equity, and community-centered public health practice. Our staff bring diverse expertise in research, policy, evaluation, and social norms work. Center for Research on Systems Change in Public Health
 
 ------------------------------------------------------------------------
 

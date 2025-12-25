@@ -5,43 +5,13 @@ bibliography: publications.bib
 nocite: "@*"
 ---
 
-The Center for Systems Change and Social Norms Research in Public Health produces research, reports, and evidence designed to strengthen public health systems and advance equity. Our work spans social norms research, systems analysis, evaluation, and community-engaged public health inquiry.
+Center for Research on Systems Change in Public Health (CRSCPH) produces research, reports, and evidence designed to strengthen public health systems and advance equity. Our work spans social norms research, systems analysis, evaluation, and community-engage
 
 This page highlights scholarly outputs from the Center and will continue to expand as new work is published and disseminated.
 
-------------------------------------------------------------------------
-
 ## Peer-Reviewed Articles
 
-Peer-reviewed journal articles authored or co-authored by Center members advance theory, evidence, and practice related to systems change, social norms, and public health equity.
-
--   **Tura, R.**, & Aluku, N. C. M. (2025).\
-    *Whose decision is it anyway? Men’s perceptions of women’s decision-making autonomy in maternal and child health in Western Kenya.*\
-    **Social Sciences**, 14(8), 452.
-
--   **Tura, R.**, Aluku, N. C. M., Ashida, S., & Story, W. T. (2025).\
-    *“My husband is a ‘mama’s boy’”: Women’s views on male engagement in maternal, newborn, and child health in Western Kenya.*\
-    **International Journal of Environmental Research and Public Health**, 22(1), 125.
-
--   **Story, W. T.**, Amare, Y., Vaz, L. M. E., Gardner, H., **Tura, H.**, et al. (2021).\
-    *Changes in attitudes and behaviors supportive of maternal and newborn health in Ethiopia.*\
-    **BMC Pregnancy and Childbirth**, 21(1), 407.
-
--   **Tura, H.**, & Licoze, A. (2019).\
-    *Women’s experience of intimate partner violence and uptake of antenatal care in Sofala, Mozambique.*\
-    **PLOS ONE**, 14(5), e0217407.
-
--   **Story, W. T.**, **Tura, H.**, Rubin, J., et al. (2020).\
-    *Social capital and disaster preparedness in Oromia, Ethiopia.*\
-    **Social Science & Medicine**, 257, 111907.
-
--   **Cornish, D. L.**, **Tura, H.**, & Roberts-Dobie, S. (2020).\
-    *Mother-to-mother: Evaluation of a peer model to communicate nutrition messages in Mozambique.*\
-    **African Journal of Health Sciences**, 32(5), 53–63.
-
--   **Tura, H. T.**, Story, W. T., & Licoze, A. (2020).\
-    *Community-based savings groups, women’s agency, and maternal health service utilisation.*\
-    **Global Public Health**, 15(8), 1119–1129.
+Peer-reviewed articles w*ill be added as they are released.*
 
 ## Research Reports & Technical Briefs
 
@@ -49,22 +19,16 @@ Center-led research reports and technical briefs provide in-depth analysis and a
 
 *Reports and briefs will be added as they are released.*
 
-------------------------------------------------------------------------
-
 ## Policy Briefs & Evidence Summaries
 
 Policy briefs and evidence summaries translate research findings into accessible insights for policymakers, agency leaders, and practitioners.
 
 *Policy-focused publications will be posted here.*
 
-------------------------------------------------------------------------
-
 ## Presentations & Conference Proceedings
 
 Scholarly and invited presentations delivered at conferences, webinars, and professional convenings share emerging insights and applied lessons from the Center’s work.
 
 *Presentations and proceedings will be listed as available.*
-
-------------------------------------------------------------------------
 
 # 
