@@ -1,8 +1,12 @@
 ---
 title: "Home"
+title-block-style: none
+format:
+  html:
+    toc: false
 ---
 
-## Center for Research on Systems Change in Public Health (CRSCPH)
+## Center for Research on Systems Change and Public Health (CRSCPH)
 
 **Evidence. Equity. Action.**
 
@@ -37,15 +41,17 @@ CRSCPH works alongside communities, public health agencies, and organizations to
 
 ## Systems Thinking & Systems Change
 
-CRSCPH applies systems thinking to help partners understand and address the complex, interconnected forces that shape population health. We support organizations in moving beyond siloed interventions toward equitable, adaptive, and sustainable systems change.
+-   We apply systems thinking to help partners understand and address the complex, interconnected forces that shape population health. Our work supports organizations in moving beyond siloed interventions toward equitable, adaptive, and sustainable systems change. Our systems thinking and systems change services include:
 
-Our work in systems thinking and systems change includes:
+-    Supporting understanding of **social and structural determinants of health**, including how policies, institutions, and power dynamics influence health outcomes
 
--   Supporting understanding of social and structural determinants of health, including how policies, institutions, and power dynamics influence health outcomes\
--   Examining political determinants of health, such as governance, policy processes, and decision-making structures that shape access, accountability, and resource allocation\
--   Training on equitable systems change, equipping practitioners and leaders to apply systems thinking through an equity and justice lens\
--   Training on the equitable use of artificial intelligence (AI) in public health, with attention to bias, ethics, governance, and responsible application in public systems\
--   Systems change models and system characteristics, including leverage points, feedback loops, adaptation, and learning within complex public health systems
+-    Examining **political determinants of health**, such as governance, policy processes, and decision-making structures that shape access, accountability, and resource allocation
+
+-   Training on **equitable systems change**, equipping practitioners and leaders to apply systems thinking through an equity and justice lens
+
+-    Training on the **equitable use of artificial intelligence (AI) in public health**, with attention to bias, ethics, governance, and responsible application in public systems
+
+-    Applying **systems change models and system characteristics**, including leverage points, feedback loops, adaptation, and learning within complex public health systems
 
 This work supports leaders, agencies, and communities to design strategies that address root causes, respond to complexity, and promote long-term transformation.
 

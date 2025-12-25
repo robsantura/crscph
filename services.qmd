@@ -1,8 +1,6 @@
 ---
 title: "Services"
-format:
-  html:
-    toc: false
+title-block-style: none
 ---
 
 ## Our Services
